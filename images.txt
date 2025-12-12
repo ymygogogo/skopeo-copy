@@ -1,2 +1,1 @@
-
-python:windowsservercore-ltsc2022
+python:windowsservercore-ltsc2025
