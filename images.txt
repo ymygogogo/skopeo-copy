@@ -1,1 +1,1 @@
-python:windowsservercore-ltsc2025
+python:slim-bookworm
