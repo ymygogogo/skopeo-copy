@@ -1,1 +1,2 @@
 python:slim-bookworm
+imroc/cert-manager-webhook-dnspod:1.5.2
