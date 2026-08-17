@@ -1,3 +1,1 @@
-python:slim-bookworm
-imroc/cert-manager-webhook-dnspod:1.5.2
-m.daocloud.io/nvcr.io/nvidia/cuda:12.8.1-devel-ubuntu22.04
+ghcr.io/nvidia/nvsentinel/gpu-reset:v1.18.0
