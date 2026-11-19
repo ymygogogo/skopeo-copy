@@ -1,2 +1,1 @@
-ghcr.io/nvidia/nvsentinel/gpu-reset:v1.18.0
 ghcr.io/coreweave/nccl-tests/manifests/12.6.3-devel-ubuntu22.04-nccl2.32.3-1-9b0129b
